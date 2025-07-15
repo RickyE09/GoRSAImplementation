@@ -9,7 +9,7 @@
 # Output of the go coverage tool
 *.coverprofile
 
-# Dependency directories (remove the comment below if you use Go modules)
+# Dependency directories 
 vendor/
 
 # Go workspace file
